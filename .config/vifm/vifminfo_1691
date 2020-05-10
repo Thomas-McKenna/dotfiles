@@ -1,0 +1,378 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/thomas/
+	..
+1582070382
+'b
+	/home/thomas/bin/
+	..
+1582070382
+'h
+	/home/thomas/
+	..
+1582070382
+'z
+	/home/thomas/.config/vifm
+	..
+1582070382
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v1
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/thomas/PycharmProjects/TDD-Book/functional_tests
+	test_simple_list_creation.py
+6
+d/home/thomas
+	PycharmProjects
+9
+d/home/thomas/PycharmProjects
+	TDD-Book
+5
+d/home/thomas/PycharmProjects/TDD-Book
+	functional_tests
+2
+d/home/thomas/PycharmProjects/TDD-Book/functional_tests
+	..
+0
+d/home/thomas/PycharmProjects/TDD-Book
+	functional_tests
+4
+d/home/thomas/PycharmProjects
+	TDD-Book
+5
+d/home/thomas
+	.mozilla
+14
+d/home
+	thomas
+2
+d/
+	usr
+17
+d/usr
+	share
+8
+d/usr/share
+	vifm
+38
+d/usr/share/vifm
+	..
+0
+d/usr/share
+	..
+0
+d/usr
+	..
+0
+d/
+	home
+4
+d/home
+	thomas
+2
+d/home/thomas
+	.vim
+20
+d/home/thomas/.vim
+	plugged
+3
+d/home/thomas/.vim/plugged
+	..
+0
+d/home/thomas/.vim
+	autoload
+1
+d/home/thomas/.vim/autoload
+	..
+0
+d/home/thomas/.vim
+	dirs
+2
+d/home/thomas/.vim/dirs
+	..
+0
+d/home/thomas/.vim
+	..
+0
+d/home/thomas
+	..
+0
+d/home
+	thomas
+2
+d/home/thomas
+	Documents
+24
+d/home/thomas/Documents
+	PSE401
+1
+d/home/thomas/Documents/PSE401
+	Term Paper 1
+1
+d/home/thomas/Documents/PSE401/Term Paper 1
+	..
+0
+d/home/thomas/Documents/PSE401
+	..
+0
+d/home/thomas/Documents
+	..
+0
+d/home/thomas
+	Downloads
+18
+d/home/thomas/Downloads
+	DID-07
+1
+d/home/thomas
+	Games
+19
+d/home/thomas/Games
+	..
+0
+d/home/thomas
+	Desktop
+16
+d/home/thomas/Desktop
+	..
+0
+d/home/thomas
+	Desktop
+16
+d/home/thomas/Desktop
+	..
+0
+d/home/thomas
+	Documents
+17
+d/home/thomas/Documents
+	testdrivendevelopmentwithpython.pdf
+8
+d/home/thomas
+	Downloads
+18
+d/home/thomas/Downloads
+	DID-07
+1
+d/home/thomas
+	Games
+19
+d/home/thomas/Games
+	steamapps
+1
+d/home/thomas/Games/steamapps
+	..
+0
+d/home/thomas/Games
+	steamapps
+1
+d/home/thomas
+	Music
+20
+d/home/thomas/Music
+	..
+0
+d/home/thomas
+	Pictures
+21
+d/home/thomas/Pictures
+	wallpapers
+1
+d/home/thomas
+	Public
+22
+d/home/thomas/Public
+	..
+0
+d/home/thomas
+	Templates
+23
+d/home/thomas/Templates
+	..
+0
+d/home/thomas
+	Videos
+24
+d/home/thomas/Videos
+	..
+0
+d/home/thomas
+	eclipse-workspace
+25
+d/home/thomas/eclipse-workspace
+	..
+0
+d/home/thomas
+	kwin-tiling
+26
+d
+
+# Right window history (oldest to newest):
+D/home/thomas
+	..
+0
+D/home
+	thomas
+2
+D/
+	lib
+5
+D/lib
+	..
+0
+D/
+	home
+4
+D/home
+	thomas
+2
+D/home/thomas/.vim
+	..
+0
+D/home/thomas/.config
+	Code - OSS
+2
+D/home/thomas/.cache
+	..
+0
+D/home/thomas
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+/vif
+/vifm
+/dow
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/thomas/.local/share/vifm/Trash/000_Screenshot_20200415_110755.png
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/thomas/.local/share/vifm/Trash/000_Term Paper.pdf
+	/home/thomas/Documents/PSE401/Term Paper 1/Term Paper.pdf
+t/home/thomas/.local/share/vifm/Trash/000_DigitalWatch-UMLRT.zip
+	/home/thomas/Downloads/DigitalWatch-UMLRT.zip
+t/home/thomas/.local/share/vifm/Trash/000_Choi McKenna test report.html
+	/home/thomas/Downloads/Choi McKenna test report.html
+t/home/thomas/.local/share/vifm/Trash/000_Cadet Wing Survey .docx
+	/home/thomas/Downloads/Cadet Wing Survey .docx
+t/home/thomas/.local/share/vifm/Trash/000_81727.pdf
+	/home/thomas/Downloads/81727.pdf
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.dmenu
+	/home/thomas/Downloads/dotfiles-master-.dmenu
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.config-compton
+	/home/thomas/Downloads/dotfiles-master-.config-compton
+t/home/thomas/.local/share/vifm/Trash/000_DigitalWatch_Lab4
+	/home/thomas/Downloads/DigitalWatch_Lab4
+t/home/thomas/.local/share/vifm/Trash/000_EmptyFreeRTOSApp.zip
+	/home/thomas/Downloads/EmptyFreeRTOSApp.zip
+t/home/thomas/.local/share/vifm/Trash/000_EmptyPapyrusRTProject.zip
+	/home/thomas/Downloads/EmptyPapyrusRTProject.zip
+t/home/thomas/.local/share/vifm/Trash/000_GPS Server.docx
+	/home/thomas/Downloads/GPS Server.docx
+t/home/thomas/.local/share/vifm/Trash/000_GPSParticipantsGuide.txt
+	/home/thomas/Downloads/GPSParticipantsGuide.txt
+t/home/thomas/.local/share/vifm/Trash/000_Grad-20200422-RedActivityLog.txt
+	/home/thomas/Downloads/Grad-20200422-RedActivityLog.txt
+t/home/thomas/.local/share/vifm/Trash/000_LinuxCLeanupV2.sh
+	/home/thomas/Downloads/LinuxCLeanupV2.sh
+t/home/thomas/.local/share/vifm/Trash/000_Noam Chomsky - Democracy and Education.pdf
+	/home/thomas/Downloads/Noam Chomsky - Democracy and Education.pdf
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Course Review_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Course Review_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week1_Mil Prof.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week1_Mil Prof.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week3_IntroMoralPhil_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week3_IntroMoralPhil_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week4_Ethical Analysis_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week4_Ethical Analysis_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week5_Indiv and Sit Factors Pt1_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week5_Indiv and Sit Factors Pt1_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week6_Indiv and Sit Factors Pt2_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week6_Indiv and Sit Factors Pt2_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week10_Just War_Tradition and Theory.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week10_Just War_Tradition and Theory.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week13_Ethical Warriors_revised Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week13_Ethical Warriors_revised Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PriorToStartEx.txt
+	/home/thomas/Downloads/PriorToStartEx.txt
+t/home/thomas/.local/share/vifm/Trash/000_README
+	/home/thomas/Downloads/README
+t/home/thomas/.local/share/vifm/Trash/000_SpiderLabs-owasp-modsecurity-crs.tar.gz
+	/home/thomas/Downloads/SpiderLabs-owasp-modsecurity-crs.tar.gz
+t/home/thomas/.local/share/vifm/Trash/000_antlr-mode-3.1.5.tar.gz
+	/home/thomas/Downloads/antlr-mode-3.1.5.tar.gz
+t/home/thomas/.local/share/vifm/Trash/000_book-example-chapter_deploying_validation.zip
+	/home/thomas/Downloads/book-example-chapter_deploying_validation.zip
+t/home/thomas/.local/share/vifm/Trash/000_chomsky-2013.pdf
+	/home/thomas/Downloads/chomsky-2013.pdf
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.config-compton.zip
+	/home/thomas/Downloads/dotfiles-master-.config-compton.zip
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.config-qtile-icons.zip
+	/home/thomas/Downloads/dotfiles-master-.config-qtile-icons.zip
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.dmenu.zip
+	/home/thomas/Downloads/dotfiles-master-.dmenu.zip
+t/home/thomas/.local/share/vifm/Trash/000_exercise.c
+	/home/thomas/Downloads/exercise.c
+t/home/thomas/.local/share/vifm/Trash/000_language.g4
+	/home/thomas/Downloads/language.g4
+t/home/thomas/.local/share/vifm/Trash/000_message.txt
+	/home/thomas/Downloads/message.txt
+t/home/thomas/.local/share/vifm/Trash/000_spectrwm.conf
+	/home/thomas/Downloads/spectrwm.conf
+t/home/thomas/.local/share/vifm/Trash/000_tModLoader.Linux.v0.11.6.2.tar.gz
+	/home/thomas/Downloads/tModLoader.Linux.v0.11.6.2.tar.gz
+t/home/thomas/.local/share/vifm/Trash/000_test.pdf
+	/home/thomas/Downloads/test.pdf
+t/home/thomas/.local/share/vifm/Trash/000_wallpapers-master.zip
+	/home/thomas/Downloads/wallpapers-master.zip
+t/home/thomas/.local/share/vifm/Trash/000_.directory
+	/home/thomas/Desktop/.directory
+t/home/thomas/.local/share/vifm/Trash/000_hardrive
+	/home/thomas/Desktop/hardrive
+t/home/thomas/.local/share/vifm/Trash/000_home
+	/home/thomas/Desktop/home
+t/home/thomas/.local/share/vifm/Trash/000_Barotrauma.desktop
+	/home/thomas/Desktop/Barotrauma.desktop
+t/home/thomas/.local/share/vifm/Trash/000_DOOM.desktop
+	/home/thomas/Desktop/DOOM.desktop
+t/home/thomas/.local/share/vifm/Trash/000_Factorio.desktop
+	/home/thomas/Desktop/Factorio.desktop
+t/home/thomas/.local/share/vifm/Trash/000_Mount & Blade Warband.desktop
+	/home/thomas/Desktop/Mount & Blade Warband.desktop
+t/home/thomas/.local/share/vifm/Trash/000_Terraria.desktop
+	/home/thomas/Desktop/Terraria.desktop
+t/home/thomas/.local/share/vifm/Trash/000_Screenshot_20200415_110755.png
+	/home/thomas/Pictures/Screenshot_20200415_110755.png
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0

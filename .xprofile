@@ -1,0 +1,5 @@
+xmodmap "$HOME/.Xmodmap
+#manage dual display
+xrandr --output HDMI-A-0 --auto --left-of DisplayPort-0 &
+xbindkeys
+

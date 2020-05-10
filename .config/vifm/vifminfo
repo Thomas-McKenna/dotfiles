@@ -1,0 +1,605 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/thomas/
+	..
+1582070382
+'b
+	/home/thomas/bin/
+	..
+1582070382
+'h
+	/home/thomas/
+	..
+1582070382
+'z
+	/home/thomas/.config/vifm
+	..
+1582070382
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v1
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/thomas/.emacs.d/layers/+emacs
+	..
+0
+d/home/thomas/.emacs.d/layers
+	+lang
+12
+d/home/thomas/.emacs.d/layers/+lang
+	..
+0
+d/home/thomas/.emacs.d/layers
+	+misc
+13
+d/home/thomas/.emacs.d/layers/+misc
+	..
+0
+d/home/thomas/.emacs.d/layers
+	+os
+15
+d/home/thomas/.emacs.d/layers/+os
+	..
+0
+d/home/thomas/.emacs.d/layers
+	+pair-programming
+16
+d/home/thomas/.emacs.d/layers/+pair-programming
+	..
+0
+d/home/thomas/.emacs.d/layers
+	+readers
+17
+d/home/thomas/.emacs.d/layers/+readers
+	..
+0
+d/home/thomas/.emacs.d/layers
+	+spacemacs
+19
+d/home/thomas/.emacs.d/layers/+spacemacs
+	spacemacs-completion
+1
+d/home/thomas/.emacs.d/layers/+spacemacs/spacemacs-completion
+	packages.el
+4
+d/home/thomas/.emacs.d/layers/+spacemacs
+	spacemacs-language
+6
+d/home/thomas/.emacs.d/layers/+spacemacs/spacemacs-language
+	packages.el
+2
+d/home/thomas/.emacs.d/layers/+spacemacs
+	spacemacs-language
+6
+d/home/thomas/.emacs.d/layers
+	+tools
+22
+d/home/thomas/.emacs.d/layers/+tools
+	tern
+37
+d/home/thomas/.emacs.d/layers/+tools/tern
+	README.org
+2
+d/home/thomas/.emacs.d/layers/+tools
+	tern
+37
+d/home/thomas/.emacs.d/layers
+	+tools
+22
+d/home/thomas/.emacs.d
+	layers
+11
+d/home/thomas
+	.config
+4
+d/home/thomas/.config
+	LarusStone
+5
+d/home/thomas/.config/LarusStone
+	..
+0
+d/home/thomas/.config
+	Unknown Organization
+5
+d/home/thomas/.config/Unknown Organization
+	..
+0
+d/home/thomas/.config
+	autostart
+7
+d/home/thomas/.config/autostart
+	..
+0
+d/home/thomas/.config
+	autostart-scripts
+8
+d/home/thomas/.config/autostart-scripts
+	..
+0
+d/home/thomas/.config
+	cef_user_data
+9
+d/home/thomas/.config/cef_user_data
+	Dictionaries
+1
+d/home/thomas/.config/cef_user_data/Dictionaries
+	..
+0
+d/home/thomas/.config/cef_user_data
+	Dictionaries
+1
+d/home/thomas/.config
+	chromium
+10
+d/home/thomas/.config/chromium
+	..
+0
+d/home/thomas/.config
+	compton
+11
+d/home/thomas/.config/compton
+	compton.conf
+1
+d/home/thomas/.config
+	configstore
+11
+d/home/thomas/.config/configstore
+	..
+0
+d/home/thomas/.config
+	dconf
+12
+d/home/thomas/.config/dconf
+	user
+1
+d/home/thomas/.config
+	gtk-2.0
+16
+d/home/thomas/.config/gtk-2.0
+	..
+0
+d/home/thomas/.config
+	gtk-3.0
+17
+d/home/thomas/.config/gtk-3.0
+	..
+0
+d/home/thomas/.config
+	gconf
+15
+d/home/thomas/.config/gconf
+	..
+0
+d/home/thomas/.config
+	i3
+19
+d/home/thomas/.config/i3
+	..
+0
+d/home/thomas/.config
+	ibus
+19
+d/home/thomas/.config/ibus
+	bus
+1
+d/home/thomas/.config/ibus/bus
+	..
+0
+d/home/thomas/.config/ibus
+	bus
+1
+d/home/thomas/.config
+	jgit
+20
+d/home/thomas/.config/jgit
+	..
+0
+d/home/thomas/.config
+	kazam
+21
+d/home/thomas/.config/kazam
+	kazam.conf
+1
+d/home/thomas/.config
+	vifm
+39
+d/home/thomas/.config/vifm
+	vifmrc
+6
+d/home/thomas/.config
+	menus
+25
+d/home/thomas/.config/menus
+	..
+0
+d/home/thomas/.config
+	nautilus
+26
+d/home/thomas/.config/nautilus
+	..
+0
+d/home/thomas/.config
+	nitrogen
+27
+d/home/thomas/.config/nitrogen
+	..
+0
+d/home/thomas/.config
+	plasma-workspace
+30
+d/home/thomas/.config/plasma-workspace
+	..
+0
+d/home/thomas/.config
+	procps
+30
+d/home/thomas/.config/procps
+	..
+0
+d/home/thomas/.config
+	pulse
+31
+d/home/thomas/.config/pulse
+	..
+0
+d/home/thomas/.config
+	qtile
+32
+d/home/thomas/.config/qtile
+	..
+0
+d/home/thomas/.config
+	session
+33
+d/home/thomas/.config/session
+	..
+0
+d/home/thomas/.config
+	sqlitebrowser
+35
+d/home/thomas/.config/sqlitebrowser
+	..
+0
+d/home/thomas/.config
+	terminator
+36
+d/home/thomas/.config/terminator
+	..
+0
+d/home/thomas/.config
+	configstore
+10
+d/home/thomas/.config/configstore
+	..
+0
+d/home/thomas/.config
+	dconf
+11
+d/home/thomas/.config/dconf
+	user
+1
+d/home/thomas/.config
+	zoomus.conf
+50
+d/home/thomas
+	.config
+4
+d/home
+	thomas
+2
+d/
+	lib
+5
+d/lib
+	..
+0
+d/
+	lib64
+6
+d/lib64
+	..
+0
+d/
+	bin
+0
+d/bin
+	__pycache__
+1
+d/bin/__pycache__
+	..
+0
+d/bin
+	X
+18
+d/
+	home
+4
+d/home
+	thomas
+2
+d/home/thomas
+	2020-05-09-202602_3840x1080_scrot.png
+22
+d
+
+# Right window history (oldest to newest):
+D/home/thomas
+	..
+0
+D/home
+	thomas
+2
+D/
+	lib
+5
+D/lib
+	..
+0
+D/
+	home
+4
+D/home
+	thomas
+2
+D/home/thomas/.vim
+	..
+0
+D/home/thomas/.config
+	Code - OSS
+2
+D/home/thomas/.cache
+	..
+0
+D/home/thomas
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+/vif
+/vifm
+/dow
+/emacs.d
+/tern
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/thomas/.local/share/vifm/Trash/000_plasma-locale-settings.sh
+""/home/thomas/.local/share/vifm/Trash/000_plasma-localerc
+""/home/thomas/.local/share/vifm/Trash/000_plasma-nm
+""/home/thomas/.local/share/vifm/Trash/000_plasma-org.kde.plasma.desktop-appletsrc
+""/home/thomas/.local/share/vifm/Trash/000_plasma_calendar_holiday_regions
+""/home/thomas/.local/share/vifm/Trash/000_plasmanotifyrc
+""/home/thomas/.local/share/vifm/Trash/000_plasmarc
+""/home/thomas/.local/share/vifm/Trash/000_plasmashellrc
+""/home/thomas/.local/share/vifm/Trash/000_plasmawindowed-appletsrc
+""/home/thomas/.local/share/vifm/Trash/000_plasmawindowedrc
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/thomas/.local/share/vifm/Trash/000_Term Paper.pdf
+	/home/thomas/Documents/PSE401/Term Paper 1/Term Paper.pdf
+t/home/thomas/.local/share/vifm/Trash/000_DigitalWatch-UMLRT.zip
+	/home/thomas/Downloads/DigitalWatch-UMLRT.zip
+t/home/thomas/.local/share/vifm/Trash/000_Choi McKenna test report.html
+	/home/thomas/Downloads/Choi McKenna test report.html
+t/home/thomas/.local/share/vifm/Trash/000_Cadet Wing Survey .docx
+	/home/thomas/Downloads/Cadet Wing Survey .docx
+t/home/thomas/.local/share/vifm/Trash/000_81727.pdf
+	/home/thomas/Downloads/81727.pdf
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.dmenu
+	/home/thomas/Downloads/dotfiles-master-.dmenu
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.config-compton
+	/home/thomas/Downloads/dotfiles-master-.config-compton
+t/home/thomas/.local/share/vifm/Trash/000_DigitalWatch_Lab4
+	/home/thomas/Downloads/DigitalWatch_Lab4
+t/home/thomas/.local/share/vifm/Trash/000_EmptyFreeRTOSApp.zip
+	/home/thomas/Downloads/EmptyFreeRTOSApp.zip
+t/home/thomas/.local/share/vifm/Trash/000_EmptyPapyrusRTProject.zip
+	/home/thomas/Downloads/EmptyPapyrusRTProject.zip
+t/home/thomas/.local/share/vifm/Trash/000_GPS Server.docx
+	/home/thomas/Downloads/GPS Server.docx
+t/home/thomas/.local/share/vifm/Trash/000_GPSParticipantsGuide.txt
+	/home/thomas/Downloads/GPSParticipantsGuide.txt
+t/home/thomas/.local/share/vifm/Trash/000_Grad-20200422-RedActivityLog.txt
+	/home/thomas/Downloads/Grad-20200422-RedActivityLog.txt
+t/home/thomas/.local/share/vifm/Trash/000_LinuxCLeanupV2.sh
+	/home/thomas/Downloads/LinuxCLeanupV2.sh
+t/home/thomas/.local/share/vifm/Trash/000_Noam Chomsky - Democracy and Education.pdf
+	/home/thomas/Downloads/Noam Chomsky - Democracy and Education.pdf
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Course Review_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Course Review_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week1_Mil Prof.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week1_Mil Prof.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week3_IntroMoralPhil_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week3_IntroMoralPhil_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week4_Ethical Analysis_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week4_Ethical Analysis_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week5_Indiv and Sit Factors Pt1_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week5_Indiv and Sit Factors Pt1_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week6_Indiv and Sit Factors Pt2_Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week6_Indiv and Sit Factors Pt2_Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week10_Just War_Tradition and Theory.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week10_Just War_Tradition and Theory.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PSE 401_Winter2020_Week13_Ethical Warriors_revised Tymchuk.ppt
+	/home/thomas/Downloads/PSE 401_Winter2020_Week13_Ethical Warriors_revised Tymchuk.ppt
+t/home/thomas/.local/share/vifm/Trash/000_PriorToStartEx.txt
+	/home/thomas/Downloads/PriorToStartEx.txt
+t/home/thomas/.local/share/vifm/Trash/000_README
+	/home/thomas/Downloads/README
+t/home/thomas/.local/share/vifm/Trash/000_SpiderLabs-owasp-modsecurity-crs.tar.gz
+	/home/thomas/Downloads/SpiderLabs-owasp-modsecurity-crs.tar.gz
+t/home/thomas/.local/share/vifm/Trash/000_antlr-mode-3.1.5.tar.gz
+	/home/thomas/Downloads/antlr-mode-3.1.5.tar.gz
+t/home/thomas/.local/share/vifm/Trash/000_book-example-chapter_deploying_validation.zip
+	/home/thomas/Downloads/book-example-chapter_deploying_validation.zip
+t/home/thomas/.local/share/vifm/Trash/000_chomsky-2013.pdf
+	/home/thomas/Downloads/chomsky-2013.pdf
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.config-compton.zip
+	/home/thomas/Downloads/dotfiles-master-.config-compton.zip
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.config-qtile-icons.zip
+	/home/thomas/Downloads/dotfiles-master-.config-qtile-icons.zip
+t/home/thomas/.local/share/vifm/Trash/000_dotfiles-master-.dmenu.zip
+	/home/thomas/Downloads/dotfiles-master-.dmenu.zip
+t/home/thomas/.local/share/vifm/Trash/000_exercise.c
+	/home/thomas/Downloads/exercise.c
+t/home/thomas/.local/share/vifm/Trash/000_language.g4
+	/home/thomas/Downloads/language.g4
+t/home/thomas/.local/share/vifm/Trash/000_message.txt
+	/home/thomas/Downloads/message.txt
+t/home/thomas/.local/share/vifm/Trash/000_spectrwm.conf
+	/home/thomas/Downloads/spectrwm.conf
+t/home/thomas/.local/share/vifm/Trash/000_tModLoader.Linux.v0.11.6.2.tar.gz
+	/home/thomas/Downloads/tModLoader.Linux.v0.11.6.2.tar.gz
+t/home/thomas/.local/share/vifm/Trash/000_test.pdf
+	/home/thomas/Downloads/test.pdf
+t/home/thomas/.local/share/vifm/Trash/000_wallpapers-master.zip
+	/home/thomas/Downloads/wallpapers-master.zip
+t/home/thomas/.local/share/vifm/Trash/000_.directory
+	/home/thomas/Desktop/.directory
+t/home/thomas/.local/share/vifm/Trash/000_hardrive
+	/home/thomas/Desktop/hardrive
+t/home/thomas/.local/share/vifm/Trash/000_home
+	/home/thomas/Desktop/home
+t/home/thomas/.local/share/vifm/Trash/000_Barotrauma.desktop
+	/home/thomas/Desktop/Barotrauma.desktop
+t/home/thomas/.local/share/vifm/Trash/000_DOOM.desktop
+	/home/thomas/Desktop/DOOM.desktop
+t/home/thomas/.local/share/vifm/Trash/000_Factorio.desktop
+	/home/thomas/Desktop/Factorio.desktop
+t/home/thomas/.local/share/vifm/Trash/000_Mount & Blade Warband.desktop
+	/home/thomas/Desktop/Mount & Blade Warband.desktop
+t/home/thomas/.local/share/vifm/Trash/000_Terraria.desktop
+	/home/thomas/Desktop/Terraria.desktop
+t/home/thomas/.local/share/vifm/Trash/000_Screenshot_20200415_110755.png
+	/home/thomas/Pictures/Screenshot_20200415_110755.png
+t/home/thomas/.local/share/vifm/Trash/000_LarusStone
+	/home/thomas/.config/LarusStone
+t/home/thomas/.local/share/vifm/Trash/000_compton
+	/home/thomas/.config/compton
+t/home/thomas/.local/share/vifm/Trash/000_i3
+	/home/thomas/.config/i3
+t/home/thomas/.local/share/vifm/Trash/000_plasma-workspace
+	/home/thomas/.config/plasma-workspace
+t/home/thomas/.local/share/vifm/Trash/000_ranger
+	/home/thomas/.config/ranger
+t/home/thomas/.local/share/vifm/Trash/000_terminator
+	/home/thomas/.config/terminator
+t/home/thomas/.local/share/vifm/Trash/000_QtSpimrc
+	/home/thomas/.config/QtSpimrc
+t/home/thomas/.local/share/vifm/Trash/000_nautilus
+	/home/thomas/.config/nautilus
+t/home/thomas/.local/share/vifm/Trash/000_KDE
+	/home/thomas/.config/KDE
+t/home/thomas/.local/share/vifm/Trash/000_QtProject.conf
+	/home/thomas/.config/QtProject.conf
+t/home/thomas/.local/share/vifm/Trash/000_Trolltech.conf
+	/home/thomas/.config/Trolltech.conf
+t/home/thomas/.local/share/vifm/Trash/000_breezerc
+	/home/thomas/.config/breezerc
+t/home/thomas/.local/share/vifm/Trash/000_kactivitymanagerd-statsrc
+	/home/thomas/.config/kactivitymanagerd-statsrc
+t/home/thomas/.local/share/vifm/Trash/000_kactivitymanagerd-switcher
+	/home/thomas/.config/kactivitymanagerd-switcher
+t/home/thomas/.local/share/vifm/Trash/000_kactivitymanagerdrc
+	/home/thomas/.config/kactivitymanagerdrc
+t/home/thomas/.local/share/vifm/Trash/000_kateschemarc
+	/home/thomas/.config/kateschemarc
+t/home/thomas/.local/share/vifm/Trash/000_katevirc
+	/home/thomas/.config/katevirc
+t/home/thomas/.local/share/vifm/Trash/000_kcmfonts
+	/home/thomas/.config/kcmfonts
+t/home/thomas/.local/share/vifm/Trash/000_kcminputrc
+	/home/thomas/.config/kcminputrc
+t/home/thomas/.local/share/vifm/Trash/000_kcmshell5rc
+	/home/thomas/.config/kcmshell5rc
+t/home/thomas/.local/share/vifm/Trash/000_kconf_updaterc
+	/home/thomas/.config/kconf_updaterc
+t/home/thomas/.local/share/vifm/Trash/000_kded5rc
+	/home/thomas/.config/kded5rc
+t/home/thomas/.local/share/vifm/Trash/000_kded_device_automounterrc
+	/home/thomas/.config/kded_device_automounterrc
+t/home/thomas/.local/share/vifm/Trash/000_kdeglobals
+	/home/thomas/.config/kdeglobals
+t/home/thomas/.local/share/vifm/Trash/000_kfontinstuirc
+	/home/thomas/.config/kfontinstuirc
+t/home/thomas/.local/share/vifm/Trash/000_kgammarc
+	/home/thomas/.config/kgammarc
+t/home/thomas/.local/share/vifm/Trash/000_kglobalshortcutsrc
+	/home/thomas/.config/kglobalshortcutsrc
+t/home/thomas/.local/share/vifm/Trash/000_khotkeysrc
+	/home/thomas/.config/khotkeysrc
+t/home/thomas/.local/share/vifm/Trash/000_konsolerc
+	/home/thomas/.config/konsolerc
+t/home/thomas/.local/share/vifm/Trash/000_krunnerrc
+	/home/thomas/.config/krunnerrc
+t/home/thomas/.local/share/vifm/Trash/000_kscreenlockerrc
+	/home/thomas/.config/kscreenlockerrc
+t/home/thomas/.local/share/vifm/Trash/000_kservicemenurc
+	/home/thomas/.config/kservicemenurc
+t/home/thomas/.local/share/vifm/Trash/000_ksmserverrc
+	/home/thomas/.config/ksmserverrc
+t/home/thomas/.local/share/vifm/Trash/000_ksplashrc
+	/home/thomas/.config/ksplashrc
+t/home/thomas/.local/share/vifm/Trash/000_ktimezonedrc
+	/home/thomas/.config/ktimezonedrc
+t/home/thomas/.local/share/vifm/Trash/000_ktrashrc
+	/home/thomas/.config/ktrashrc
+t/home/thomas/.local/share/vifm/Trash/000_kwalletrc
+	/home/thomas/.config/kwalletrc
+t/home/thomas/.local/share/vifm/Trash/000_kwin_rules_dialogrc
+	/home/thomas/.config/kwin_rules_dialogrc
+t/home/thomas/.local/share/vifm/Trash/000_kwinrc
+	/home/thomas/.config/kwinrc
+t/home/thomas/.local/share/vifm/Trash/000_kwinrulesrc
+	/home/thomas/.config/kwinrulesrc
+t/home/thomas/.local/share/vifm/Trash/000_kxkbrc
+	/home/thomas/.config/kxkbrc
+t/home/thomas/.local/share/vifm/Trash/000_plasma-locale-settings.sh
+	/home/thomas/.config/plasma-locale-settings.sh
+t/home/thomas/.local/share/vifm/Trash/000_plasma-localerc
+	/home/thomas/.config/plasma-localerc
+t/home/thomas/.local/share/vifm/Trash/000_plasma-nm
+	/home/thomas/.config/plasma-nm
+t/home/thomas/.local/share/vifm/Trash/000_plasma-org.kde.plasma.desktop-appletsrc
+	/home/thomas/.config/plasma-org.kde.plasma.desktop-appletsrc
+t/home/thomas/.local/share/vifm/Trash/000_plasma_calendar_holiday_regions
+	/home/thomas/.config/plasma_calendar_holiday_regions
+t/home/thomas/.local/share/vifm/Trash/000_plasmanotifyrc
+	/home/thomas/.config/plasmanotifyrc
+t/home/thomas/.local/share/vifm/Trash/000_plasmarc
+	/home/thomas/.config/plasmarc
+t/home/thomas/.local/share/vifm/Trash/000_plasmashellrc
+	/home/thomas/.config/plasmashellrc
+t/home/thomas/.local/share/vifm/Trash/000_plasmawindowed-appletsrc
+	/home/thomas/.config/plasmawindowed-appletsrc
+t/home/thomas/.local/share/vifm/Trash/000_plasmawindowedrc
+	/home/thomas/.config/plasmawindowedrc
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0

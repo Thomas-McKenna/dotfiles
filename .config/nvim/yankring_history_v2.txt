@@ -1,0 +1,100 @@
+ls,v
+crot '%F_%H:%M.png' -s -e 'mv $f ~/Pictures/Screenshots/',v
+s,v
+    m:0x0 + Release,V
+    m:0x0 + c:107,V
+(Scheme function),v
+               <tr>                                <td>Eric Sturgeon</td>                <td>Incident Response, Active Directory</td>                <td>NUMBER GOES HERE</td>               </tr> ,V
+<td>Ocdt</td>,v
+Incident Response, Active Directory,v
+Eric Sturgeon,v
+Incidet Response, Active Directory,v
+n,v
+               <tr>                <td>Ocdt</td>                <td>Eric Sturgeon</td>                <td>Incident Response, Active Directory</td>                <td>NUMBER GOES HERE</td>               </tr> ,V
+>,v
+r,v
+t,v
+/,v
+<,v
+                <td>Ocdt</td>                <td>Eric Sturgeon</td>                <td>Incident Response, Active Directory</td>                <td>NUMBER GOES HERE</td>               </tr> ,V
+Ocdt,v
+              <tr>                <td>Ocdt</td>                <td>Eric Sturgeon</td>                <td>Incident Response, Active Directory</td>                <td>NUMBER GOES HERE</td>               </tr> ,V
+              <tr></tr>,V
+Serviece Lead, Firewall,v
+Nick Trindade,v
+                <td>Ncdt</td>                <td>Nick Trindade</td>                <td>Serviece Lead, Firewall</td>                <td>NUMBER GOES HERE</td>              ,v
+              <tr>,V
+     ,v
+Team Lead,v
+Max Fleming,v
+              <tr>                <td>Ocdt</td>                <td>Max Fleming</td>                <td>Team Lead</td>                <td>NUMBER GOES HERE</td>              </tr>,V
+              <tr>                <td>Eve</td>                <td>Jackson</td>                <td>94</td>              </tr>,V
+                <td>50</td>,V
+                <th>Age</th>,V
+50,v
+mith,v
+Jill,v
+1,v
+4,v
+.,v
+0,v
+        <p><a href="0.41/forum"> Visit </a> our Forum!</a></p>,V
+192.168.,v
+Our Forum,v
+HELLO,v
+        <a href="/forum" our Forum!</a>,v
+html_images.asp">Visit,v
+HTML Images,v
+<style></style>,V
+table, th, td {  border: 1px solid black;}</style><style></style>    <body>    <h1> Hello! Welcome to the RMC Undergrad Webservice HomePage</h1>        <caption>Below is the table showing our command structure:</caption>            <table style="width:100%">              <tr>                <th>Rank</th>                <th>Name</th>                <th>Position</th>                <th>Contact</th>                <th>Age</th>              </tr>              <tr>                <td>Jill</td>                <td>Smith</td>                <td>50</td>                <td>50</td>                <td>50</td>              </tr>              <tr>                <td>Eve</td>                <td>Jackson</td>                <td>94</td>              </tr>            </table>            ,V
+</style>,V
+,V
+e,v
+l,v
+y,v
+table, th, td {  border: 1px solid black;},V
+table, th, td {  border: 1px solid black;}</style>,V
+,,v
+bar,v
+-,v
+w3,v
+        <caption>Here is the current Watch bill and schedule:</caption>,V
+            <table style="width:100%">              <tr>                <th>Rank</th>                <th>Name</th>                <th>Position</th>                <th>Contact</th>                <th>Age</th>              </tr>              <tr>                <td>Jill</td>                <td>Smith</td>                <td>50</td>              </tr>              <tr>                <td>Eve</td>                <td>hello</td>                <td>94</td>              </tr>,V
+Jackson,v
+Brian Lachine,v
+        <address>            <a href="mailto:EMAIL GOES HERE"> Brian Lachine</a>        </address>,V
+        <address>,V
+            <a href="mailto:EMAIL GOES HERE"> Brian Lachine</a>        </address>,V
+            <a href="mailto:EMAIL GOES HERE"> Brian Lachine</a>,V
+p,v
+</style>    <body>    <h1> Hello! Welcome to the RMC Undergrad Webservice HomePage</h1>        <p>Below is the table showing our command structure:</p>            <table style="width:100%">              <tr>                <th>Rank</th>                <th>Name</th>                <th>Position</th>                <th>Contact</th>                <th>Age</th>              </tr>              <tr>                <td>Jill</td>                <td>Smith</td>                <td>50</td>              </tr>              <tr>                <td>Eve</td>                <td>Jackson</td>                <td>94</td>              </tr>            </table>        <p>Here is the current Watch bill and schedule:</p>            <table style="width:100%">              <tr>                <th>Rank</th>                <th>Name</th>                <th>Position</th>                <th>Contact</th>                <th>Age</th>              </tr>              <tr>                <td>Jill</td>                <td>Smith</td>                <td>50</td>              </tr>              <tr>                <td>Eve</td>                <td>Jackson</td>                <td>94</td>              </tr>        <p>Do You need to find someone? See below for contact details</p>    </body></html>,V
+            <table style="width:100%">              <tr>                <th>Rank</th>                <th>Name</th>                <th>Position</th>                <th>Contact</th>                <th>Age</th>              </tr>              <tr>                <td>Jill</td>                <td>Smith</td>                <td>50</td>              </tr>              <tr>                <td>Eve</td>                <td>Jackson</td>                <td>94</td>              </tr>,V
+html,v
+a,v
+O,v
+Age,v
+Lastname,v
+Firstname,v
+        ,V
+<!-- Header -->,V
+<header class="w3-container w3-red w3-center" style="padding:128px 16px">  <h1 class="w3-margin w3-jumbo">START PAGE</h1>  <p class="w3-xlarge">Template by w3.css</p>  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button></header>,V
+.fa-anchor,.fa-coffee {font-size:200px},v
+button ,v
+</body>,v
+></body>,v
+i,v
+Position,v
+Name,v
+osition,v
+        <tr>              <th> Rank </th>             <th> Name </th>             <th> Position </th>             <th> Contact Info </th>        </tr>,V
+        <tr> <th> Rank </th>             <th> Name </th>             <th> Position </th>             <th> Contact Info </th>        </tr>,V
+in ,v
+{base}_{self.label_index},v
+SWAD and YASWIN,v
+## MOD 5.1 investigation using SWAD and YASWIN### [Return](index.md),V
+- ,V
+g,v
+- copy everything after the /cgi?=,V
+### [Return](index.md),V
+Windows Password Cracking ,v
+## MOD 4.1 Windows Password Cracking ,V
