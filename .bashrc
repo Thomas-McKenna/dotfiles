@@ -346,16 +346,20 @@ unset bash_prompt
 
 ### EOF ###
 export PATH="$HOME/.local/bin:$PATH"
-
+export EDITOR=nvim
 export UMLRTS_ROOT=/home/thomas/Coding/Papyrus-RT/plugins/org.eclipse.papyrusrt.rts_1.0.0.201707181457/umlrts/
 ### ALIAS' ###
+#colourful ls
 alias ll='exa -al'
+alias ls='exa'
+#better editor
 alias vim='nvim'
 alias gs='git status'
+#laziness
 alias sp='sudo pacman'
 alias SS='systemctl status'
+#faster grep
 alias grep='rg'
-alias ls='exa'
 
 # alias for dotfiles repo
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
