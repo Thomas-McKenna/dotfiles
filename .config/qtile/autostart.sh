@@ -1,3 +1,4 @@
 #! /bin/bash
-picom -b    #compositor
+fava ~/Sync/Accounting/2020.beancount --host=0.0.0.0 &
+picom -b &    #compositor
 # nitrogen --restore & # background manager. swapped to feh for random background functionality.

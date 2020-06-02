@@ -97,14 +97,14 @@ keys = [
 
 # GROUPS #
 group_names = [("DEV", {'layout': 'monadtall'}),
-               ("CHAT", {'layout': 'monadtall'}),
+               ("CHAT", {'layout': 'max'}),
                ("DOC", {'layout': 'monadtall'}),
                ("MUS", {'layout': 'monadtall'}),
-               ("ETC", {'layout': 'monadtall'}),
+               ("GAME", {'layout': 'max'}),
                ("ETC2", {'layout': 'monadtall'}),
                ("ETC3", {'layout': 'monadtall'}),
                ("VID", {'layout': 'monadtall'}),
-               ("WWW", {'layout': 'monadtall'})]
+               ("WWW", {'layout': 'max'})]
 
 groups = [Group(name, **kwargs) for name, kwargs in group_names]
 
