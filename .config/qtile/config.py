@@ -85,7 +85,6 @@ keys = [
     # run command
     Key([mod], "r", lazy.spawncmd()),
 
-    # Switch focus to specific monitor
     Key([mod], "w", lazy.spawn("firefox"), desc='Start web browser'),
     Key([mod], "e", lazy.spawn("emacs"), desc="Start Emacs"),
 
@@ -93,6 +92,10 @@ keys = [
     Key([mod], "period", lazy.next_screen(),
         desc='Move focus to next monitor'),
     Key([mod], "comma", lazy.prev_screen(), desc='Move focus to prev monitor'),
+
+    # fullscreen and floating
+    Key([mod], "f", lazy.window.toggle_fullscreen(), desc='Toggle Fullscreen'),
+    Key([mod], "F", lazy.window.toggle_floating(), desc='Toggle Floating'),
 ]
 
 # GROUPS #

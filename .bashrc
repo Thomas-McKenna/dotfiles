@@ -345,7 +345,7 @@ unset bash_prompt
 
 
 ### EOF ###
-export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/Coding/Scripts:$HOME/.local/bin:$PATH"
 export EDITOR=nvim
 export UMLRTS_ROOT=/home/thomas/Coding/Papyrus-RT/plugins/org.eclipse.papyrusrt.rts_1.0.0.201707181457/umlrts/
 ### ALIAS' ###
