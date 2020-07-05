@@ -358,6 +358,7 @@ alias gs='git status'
 #laziness
 alias sp='sudo pacman'
 alias SS='systemctl status'
+alias vest='python ~/Coding/Scripts/Beancount/find_fund.py'
 #faster grep
 alias grep='rg'
 

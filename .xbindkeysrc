@@ -74,6 +74,15 @@
 # Mute volume
 "pactl set-sink-mute @DEFAULT_SINK@ toggle"
    XF86AudioMute
+#play/pause
+"playerctl play-pause"
+   Mod2 + XF86AudioPlay
+#Next Track
+"playerctl next"
+   Mod2 + XF86AudioNext
+#Previous Track
+"playerctl previous"
+   Mod2 + XF86AudioPrev
 
 "maim -s -u ~/Pictures/Screenshots/$(date +%F-%T).png"
     Print +Release

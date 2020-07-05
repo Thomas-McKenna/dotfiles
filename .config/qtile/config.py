@@ -99,15 +99,15 @@ keys = [
 ]
 
 # GROUPS #
-group_names = [("DEV", {'layout': 'monadtall'}),
-               ("CHAT", {'layout': 'max'}),
+group_names = [("DEV", {'layout': 'monadtall', 'spawn': 'emacs'}),
+               ("CHAT", {'layout': 'max', 'spawn': 'discord'}),
                ("DOC", {'layout': 'monadtall'}),
-               ("MUS", {'layout': 'monadtall'}),
+               ("MUS", {'layout': 'monadtall', 'spawn': 'spotify'}),
                ("GAME", {'layout': 'max'}),
                ("ETC2", {'layout': 'monadtall'}),
                ("ETC3", {'layout': 'monadtall'}),
                ("VID", {'layout': 'monadtall'}),
-               ("WWW", {'layout': 'max'})]
+               ("WWW", {'layout': 'max', 'spawn': 'firefox'})]
 
 groups = [Group(name, **kwargs) for name, kwargs in group_names]
 
@@ -138,7 +138,7 @@ layouts = [
     # layout.Zoomy(),
     layout.MonadTall(**layout_theme),
     layout.Max(**layout_theme),
-    layout.Tile(shift_windows=True, **layout_theme),
+    # layout.Tile(shift_windows=True, **layout_theme),
     layout.Floating(**layout_theme)
 ]
 
@@ -185,11 +185,6 @@ def create_widget_list():
                         other_screen_border=colours[0],
                         foreground=colours[2],
                         background=colours[0]),
-        widget.Prompt(prompt=prompt,
-                      fontsize=18,
-                      font="mononoki Nerd Font Bold",
-                      foreground=colours[5],
-                      background=colours[0]),
         widget.WindowName(foreground=colours[5],
                           background=colours[0],
                           padding=0),
@@ -222,15 +217,11 @@ def create_widget_list():
         widget.memory.Memory(foreground=colours[2],
                              background=colours[5],
                              padding=5),
-        widget.TextBox(text="Updates: ⟳",
-                       padding=2,
-                       foreground=colours[2],
-                       background=colours[5],
-                       fontsize=14),
-        widget.pacman.Pacman(execute="alacritty -e sudo pacman -Syu",
-                             update_interval=60,
-                             foreground=colours[2],
-                             background=colours[5]),
+        widget.check_updates.CheckUpdates(
+            execute="alacritty -e sudo pacman -Syu",
+            foreground=colours[2],
+            background=colours[5]
+            ),
         widget.Clock(foreground=colours[2],
                      background=colours[5],
                      format="%A, %B %d  [ %H:%M ]"),
@@ -240,12 +231,20 @@ def create_widget_list():
     return widget_list
 
 
-# #### SCREENS ##### (TRIPLE MONITOR SETUP)
+##### SCREENS #####
 shortened_widgets = create_widget_list()
+#  easiest way to get different widgets on second screen
 shortened_widgets = [
-    shortened_widgets[0], shortened_widgets[2], shortened_widgets[4],
-    shortened_widgets[5], shortened_widgets[6], shortened_widgets[7],
-    shortened_widgets[12], shortened_widgets[14]
+    shortened_widgets[0],
+    widget.Prompt(prompt=prompt,
+                  fontsize=18,
+                  font="mononoki Nerd Font Bold",
+                  foreground=colours[5],
+                  background=colours[0]),
+
+    shortened_widgets[1], shortened_widgets[3],
+    shortened_widgets[4], shortened_widgets[5], shortened_widgets[6],
+    shortened_widgets[10], shortened_widgets[12]
 ]
 screens = [
     Screen(top=bar.Bar(widgets=create_widget_list(), opacity=0.90, size=30)),
