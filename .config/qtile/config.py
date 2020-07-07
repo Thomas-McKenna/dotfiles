@@ -33,6 +33,7 @@ from libqtile.command import lazy
 from libqtile.config import Click, Drag, Group, Key, Screen
 
 mod = "mod4"
+my_terminal = "alacritty"
 
 keys = [
     # Switch between windows in current stack pane
@@ -71,7 +72,7 @@ keys = [
     # cycle through panes
     Key([mod], "space", lazy.layout.next()),
     # launch terminal
-    Key([mod], "Return", lazy.spawn("alacritty")),
+    Key([mod], "Return", lazy.spawn(my_terminal)),
 
     # Toggle between different layouts as defined below
     Key([mod], "Tab", lazy.next_layout()),
@@ -218,7 +219,7 @@ def create_widget_list():
                              background=colours[5],
                              padding=5),
         widget.check_updates.CheckUpdates(
-            execute="alacritty -e sudo pacman -Syu",
+            execute=(my_terminal + " -e sudo pacman -Syu"),
             foreground=colours[2],
             background=colours[5]
             ),
