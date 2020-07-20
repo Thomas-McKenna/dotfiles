@@ -189,7 +189,7 @@ def create_widget_list():
         widget.WindowName(foreground=colours[5],
                           background=colours[0],
                           padding=0),
-        widget.net.Net(interface="enp7s0",
+        widget.net.Net(interface="wlp3s0",
                        format='{down} ↓↑ {up}',
                        foreground=colours[2],
                        background=colours[5],

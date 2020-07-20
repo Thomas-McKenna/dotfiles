@@ -1,5 +1,6 @@
-xmodmap $HOME/.Xmodmap
+xmodmap $HOME/.Xmodmap &
+gnome-keyring-daemon --start --components=pkcs11,secrets,ssh &
 #manage dual display
 xrandr --output HDMI-A-0 --auto --left-of DisplayPort-0 &
-xbindkeys
+xbindkeys &
 
