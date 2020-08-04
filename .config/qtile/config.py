@@ -31,6 +31,11 @@ from typing import List  # noqa: F401
 from libqtile import bar, hook, layout, widget
 from libqtile.command import lazy
 from libqtile.config import Click, Drag, Group, Key, Screen
+from libqtile.widget.net import Net
+from libqtile.widget.volume import Volume
+from libqtile.widget.check_updates import CheckUpdates
+from libqtile.widget.currentlayout import CurrentLayout, CurrentLayoutIcon
+from libqtile.widget.memory import Memory
 
 mod = "mod4"
 my_terminal = "alacritty"
@@ -189,25 +194,25 @@ def create_widget_list():
         widget.WindowName(foreground=colours[5],
                           background=colours[0],
                           padding=0),
-        widget.net.Net(interface="wlp3s0",
+       Net(interface="wlp3s0",
                        format='{down} ↓↑ {up}',
                        foreground=colours[2],
                        background=colours[5],
                        padding=5),
-        widget.CurrentLayoutIcon(
+        CurrentLayoutIcon(
             custom_icon_paths=[os.path.expanduser("~/.config/qtile/icons")],
             foreground=colours[0],
             background=colours[5],
             padding=0,
             scale=0.7),
-        widget.CurrentLayout(foreground=colours[2],
+        CurrentLayout(foreground=colours[2],
                              background=colours[5],
                              padding=5),
         widget.TextBox(text=" Vol:",
                        foreground=colours[2],
                        background=colours[5],
                        padding=0),
-        widget.volume.Volume(foreground=colours[2],
+        Volume(foreground=colours[2],
                              background=colours[5],
                              padding=5),
         widget.TextBox(text=" 🖬",
@@ -215,7 +220,7 @@ def create_widget_list():
                        background=colours[5],
                        padding=0,
                        fontsize=14),
-        widget.memory.Memory(foreground=colours[2],
+        Memory(foreground=colours[2],
                              background=colours[5],
                              padding=5),
         widget.check_updates.CheckUpdates(
@@ -275,6 +280,12 @@ floating_layout = layout.Floating(float_rules=[
     # Run the utility of `xprop` to see the wm class and name of an X client.
     {
         'wmclass': 'confirm'
+    },
+    {
+        'wmclass': 'Gcr-prompter'
+    },
+    {
+        'wmclass': 'gcr-prompter'
     },
     {
         'wmclass': 'dialog'
